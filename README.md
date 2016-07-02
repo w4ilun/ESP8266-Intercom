@@ -1,6 +1,6 @@
 # ESP8266 Intercom
 
-![Fritzing](Fritzing.png)
+![Fritzing](fritzing.png)
 
 An ESP8266 is connected to a 2-channel relay module.
 * Channel 1 controls the door, with the relay closed for 2 seconds only
